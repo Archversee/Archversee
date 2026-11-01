@@ -1,1 +1,2 @@
-Hi! I’m Sun Wei, a Computing Science undergraduate at Singapore Institute of Technology / University of Glasgow, with a strong interest in AI/ML, full-stack development, and systems engineering. I enjoy building practical solutions that integrate machine learning models with scalable software systems.
+<img src="koi/koi.gif" width="256" alt="My koi" />
+
